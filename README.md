@@ -31,6 +31,7 @@ ESLint is run before build or by `npm run lint`
 
 # TODOs
 
+- TS config & fixes
 - Several TODO comments
 - Name of dictionary editable
 - Data persistance is done really simply by saving redux store to local storage. Not an optimal initial solition with a future server connection in mind.
